@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681876155 source:c:\users\luismiguel\desktop\cucei utilerias\8vo semestre\cid\proyecto act. 2\act2\main.cpp
+	"DataSet.h"
+	"DiscreteMaths.h"
+	<iostream>
+	<stdlib.h>
+
+1681870648 source:c:\users\luismiguel\desktop\cucei utilerias\8vo semestre\cid\proyecto act. 2\act2\src\dataset.cpp
+	"DataSet.h"
+
+1681852217 c:\users\luismiguel\desktop\cucei utilerias\8vo semestre\cid\proyecto act. 2\act2\include\dataset.h
+	<vector>
+
+1681866099 source:c:\users\luismiguel\desktop\cucei utilerias\8vo semestre\cid\proyecto act. 2\act2\src\discretemaths.cpp
+	"DiscreteMaths.h"
+
+1681865404 c:\users\luismiguel\desktop\cucei utilerias\8vo semestre\cid\proyecto act. 2\act2\include\discretemaths.h
+	<vector>
+	<math.h>
+	<iostream>
+
